@@ -1,0 +1,28 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "portfinder": "^1.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imbarwinata/reservasi-hotel.git"
+  },
+  "keywords": [
+    "reservasi"
+  ],
+  "author": "imbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imbarwinata/reservasi-hotel/issues"
+  },
+  "homepage": "https://github.com/imbarwinata/reservasi-hotel#readme"
+}
